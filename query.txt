@@ -1,0 +1,6 @@
+table1_path = tables/orders.csv
+table2_path = tables/customers.csv
+table1_size = 1000
+table2_size = 5000
+join_algorithm = nlj
+output_directory_path = results/
