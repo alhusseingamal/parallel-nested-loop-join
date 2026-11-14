@@ -1,4 +1,4 @@
-# parallel_db
+# Parallel Nested-Loop Join
 
 An experimental GPU-accelerated nested-loop join for two CSV tables. The
 project explores how a familiar relational operation can be expressed as a
